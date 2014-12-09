@@ -3,6 +3,7 @@ compiler: gcc
 script:
     - echo "hello Travis CI!"
     - echo "//Some useful changes..." >> blocks/manu343726/try-biicode-travisci/main.cpp
+    - tail blocks/manu343726/try-biicode-travisci/main.cpp
 deploy:
   provider: biicode
   user: manu343726
