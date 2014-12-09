@@ -2,6 +2,8 @@ language: c++
 compiler: gcc
 script:
     - echo "hello Travis CI!"
+after_success:
+    - git reset --hard HEAD
 deploy:
   provider: biicode
   user: manu343726
