@@ -1,3 +1,5 @@
+language: c++
+compiler: gcc
 deploy:
   provider: biicode
   user: manu343726
