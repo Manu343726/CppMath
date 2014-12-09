@@ -1,5 +1,7 @@
 language: c++
 compiler: gcc
+script:
+    - echo "hello Travis CI!"
 deploy:
   provider: biicode
   user: manu343726
