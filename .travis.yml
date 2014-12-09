@@ -2,8 +2,7 @@ language: c++
 compiler: gcc
 script:
     - echo "hello Travis CI!"
-after_success:
-    - git reset --hard HEAD
+    - echo "//Some useful changes..." >> blocks/manu343726/try-biicode-travisci/main.cpp
 deploy:
   provider: biicode
   user: manu343726
