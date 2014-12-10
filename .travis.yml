@@ -17,7 +17,7 @@ script:
   - bii find --update
   - bii cpp:configure -DCMAKE_CXX_COMPILER=$(which $CXX)
   - bii cpp:build
-  - ./bin/manu343726_try-biitravis-tests_main --reporter=info
+  - ./bin/manu343726_try-biicode-travisci_test --reporter=info
 deploy:
   provider: biicode
   user: manu343726
