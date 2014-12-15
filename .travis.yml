@@ -4,7 +4,6 @@ env:
   global:
     - GCC_VERSION="4.9" 
 before_install:
-  - export CHECKOUT_PATH=`pwd`;
   - sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
   - sudo apt-get update -qq
 
