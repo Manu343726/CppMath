@@ -1,4 +1,4 @@
-CppMath [![Build Status](https://travis-ci.org/Manu343726/try-biicode-travisci.svg?branch=master)](https://travis-ci.org/Manu343726/try-biicode-travisci)
+CppMath [![Build Status](https://travis-ci.org/Manu343726/CppMath.svg?branch=master)](https://travis-ci.org/Manu343726/CppMath) [![biicode block](http://img.shields.io/badge/manu343726%2Fcppmath-DEV-yellow.svg)](https://www.biicode.com/manu343726/manu343726/cppmath/master)
 =======
 
 A fictional math library to show biicode deployment with Travis CI
