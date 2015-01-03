@@ -23,4 +23,4 @@ deploy:
   password:
     secure: jgfnN4eqgMxJW9JNNqLux2Ad55U8ybPEXcVsc3wnpyzolCPi42r6204dDILpuliN8qYEHyN3C9pKq94kK6Ew2oSuPCRZj83LlsqRK3X6mns5w4ObY42IOaE0wafhDkavPCd9WV+NrOBHP35niZE/S83rf0Dx/LR7aoVn8NKQt8A=
   on:
-    repo: Manu343726/try-biicode-travisci
+    repo: Manu343726/CppMath
