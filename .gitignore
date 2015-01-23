@@ -1,0 +1,6 @@
+#Ignore biicode stuff
+
+/bii/
+/cmake/
+/build/
+/bin/
