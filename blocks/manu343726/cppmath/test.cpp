@@ -1,5 +1,5 @@
 #include <manu343726/bandit/bandit.h>
-#include <manu343726/CppMath/vector3.hpp>
+#include <manu343726/cppmath/vector3.hpp>
 
 using namespace bandit;
 
